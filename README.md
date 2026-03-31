@@ -14,7 +14,7 @@
 
 - 🎓 BUPT
 - 🔭 Focus: Backend / Security / LLM
-- 🌱 I’m currently seeking for job position
+# - 🌱 I’m currently seeking for job position
 - 📫 How to reach me: YHYJBPXR@outlook.com
 
 ## Development Tools & Platforms
